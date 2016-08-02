@@ -30,5 +30,5 @@ done
 
 echo "LAST SESSION"
 one_cycle 60
-notify-send -i face-cool 'End of Pomodoro!'
+notify-send -i face-cool 'Wow look at you!'
 
