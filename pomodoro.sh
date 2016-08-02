@@ -19,7 +19,7 @@ one_cycle() {
 
 notify-send 'Go go go!'
 for j in $(seq 1 3); do
-	echo "SESION" $j
+	echo "SESSION" $j
 	one_cycle 60
 	notify-send "coffee time?"
 
